@@ -1,5 +1,5 @@
-#ifndef AP_HW1_H
-#define AP_HW1_H
+#ifndef MATRIX_H
+#define MATRIX_H
 
 #include <vector>
 #include <random>
@@ -32,4 +32,4 @@ Matrix ero_sum(const Matrix& matrix, size_t r1, double c, size_t r2);
 Matrix upper_triangular(const Matrix& matrix);
 }
 
-#endif //AP_HW1_H
+#endif //MATRIX_H

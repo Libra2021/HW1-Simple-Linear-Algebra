@@ -1,4 +1,4 @@
-#include "hw1.h"
+#include "matrix.h"
 
 static inline void check_square(int n_rows, int n_cols) {
     if (n_rows != n_cols) {

@@ -1,7 +1,7 @@
 
 #include "gtest/gtest.h"
 #include "gmock/gmock.h"
-#include "hw1.h"
+#include "matrix.h"
 
 using namespace algebra;
 

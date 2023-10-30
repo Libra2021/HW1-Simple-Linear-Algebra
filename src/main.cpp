@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include <gtest/gtest.h>
-#include "hw1.h"
+#include "matrix.h"
 
 int main(int argc, char **argv)
 {

@@ -9,7 +9,7 @@ include_directories(include/)
 
 add_executable(main
         src/main.cpp
-        src/hw1.cpp
+        src/matrix.cpp
         src/unit_test.cpp
 )
 target_link_libraries(main
